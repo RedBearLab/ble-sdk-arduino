@@ -40,6 +40,7 @@ The following instructions describe the steps to be made on the Windows PC:
 
  */
 #include <SPI.h>
+#include <Nordic_nRF8001.h>
 #include <lib_aci.h>
 #include <aci_setup.h>
 
