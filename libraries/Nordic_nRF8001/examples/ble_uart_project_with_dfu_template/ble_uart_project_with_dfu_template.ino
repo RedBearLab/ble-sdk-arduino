@@ -61,6 +61,7 @@ The following instructions describe the steps to be made on the Windows PC:
  */
 #include <EEPROM.h>
 #include <SPI.h>
+#include <Nordic_nRF8001.h>
 #include <avr/pgmspace.h>
 #include <lib_aci.h>
 #include <aci_setup.h>

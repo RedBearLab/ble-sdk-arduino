@@ -41,6 +41,7 @@
  * The format used is IEEE 11073-20601 FLOAT
  */
 #include <SPI.h>
+#include <Nordic_nRF8001.h>
 #include <avr/sleep.h>
 #include <avr/power.h>
 

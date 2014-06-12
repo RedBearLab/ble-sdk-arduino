@@ -57,6 +57,7 @@ The setup() and the loop() functions are the equvivlent of main() .
 
  */
 #include <SPI.h>
+#include <Nordic_nRF8001.h>
 #include "services.h"
 
 #include <lib_aci.h>

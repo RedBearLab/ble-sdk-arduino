@@ -56,6 +56,7 @@ Note: Pin #6 on Arduino -> PAIRING CLEAR pin: Connect to 3.3v to clear the pairi
  *
  */
 #include <SPI.h>
+#include <Nordic_nRF8001.h>
 #include <lib_aci.h>
 
 #include <aci_setup.h>
